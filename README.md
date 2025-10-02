@@ -29,7 +29,7 @@ project/
 В якості макету використовувався дизайн проєкту в Figma:
 [Figma макет GRID-TEMPLATE](https://www.figma.com/design/Xzmk5hBhdY8HsmcBkiuo1B/grid-template?m=auto&t=ytF7Gf4G7xPeQy7M-6)
 
-## Розробки
+## Розробка
 
 1. Використовувався семантичний HTML5
 2. Застосовувався CSS Grid для створення адаптивних сіток
